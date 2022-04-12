@@ -5,6 +5,7 @@ I made it because I needed a human-readable and flexible way of handling data fo
 ## TODO
 - [ ] Add some flexibility and options for creation
     - [ ] Disable risky features like eval unless chosen to enable
+- [ ] Add a way for @ and + operators and set commands to define a datatype, such as numbers being set as int
 - [ ] More default commands to allow more flexibility
 - [ ] An AIML-style extension for creating chat bots
 - [ ] A Discord extension to integrate with personal projects
