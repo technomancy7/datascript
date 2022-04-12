@@ -63,3 +63,13 @@ end
 #exec _t = "We can inline eval too!"
 #exec print(_t)
 ```
+
+```
+Output:
+The second response in the first trigger was This is a second response!
+Kaiser Kaiser TEST:success!!! TEST:or did we!!!
+We can inline eval too!
+
+Variables post execution: 
+{'_number_of_blocks': 2, '_version': '0test', '_current_block': '', 'author': 'Kaiser', 'revision': 1, 'lsname': 'admins', 'admins': ['Kai'], 'first_trigger': {'trigger': 'This is my first trigger', 'responses': ['This is a first response', 'This is a second response']}, 'block_1': {'trigger': 'Trigger 2'}, 'ls': ['Borks', 'No borks?', 'Kaiser']}
+```
