@@ -1,4 +1,4 @@
-# Infoscript
+# Datascript
 A small parsing language designed to be extendible and flexible, useful for a variety of purposes.
 I made it because I needed a human-readable and flexible way of handling data for multiple projects, and wanted to see if I could make one library that would work for them all, partially to test myself, partially because I thought it'd be fun, and partially because I could then re-use data for different projects without needing different formats.
 
